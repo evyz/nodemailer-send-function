@@ -2,11 +2,9 @@
 
 > Не забудьте поставить звезду и подписаться на соц. сети lzstudio: 
 
->-[Yt](https://www.youtube.com/channel/UCCVb0ZJzMBEwzK-OwWZarYg)
-
->-[Inst](https://www.instagram.com/lzstudio_ru/)
-
->-[TT](https://www.tiktok.com/@lzstudio_ru)
+-[Youtube](https://www.youtube.com/channel/UCCVb0ZJzMBEwzK-OwWZarYg)
+-[Instagram](https://www.instagram.com/lzstudio_ru/)
+-[TikTok](https://www.tiktok.com/@lzstudio_ru)
 
 ## Инсталяция 
 
